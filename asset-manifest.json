@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChillWeather/static/css/main.01517210.css",
+    "main.js": "/ChillWeather/static/js/main.48811cc4.js",
+    "static/media/wind.svg": "/ChillWeather/static/media/wind.248774fbcc0d85cc65be210ef4a6f96d.svg",
+    "static/media/water-droplet.svg": "/ChillWeather/static/media/water-droplet.85a96d6bf401aa03b8a0da0eb8a541cd.svg",
+    "index.html": "/ChillWeather/index.html",
+    "main.01517210.css.map": "/ChillWeather/static/css/main.01517210.css.map",
+    "main.48811cc4.js.map": "/ChillWeather/static/js/main.48811cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01517210.css",
+    "static/js/main.48811cc4.js"
+  ]
+}
